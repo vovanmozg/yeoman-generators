@@ -1,0 +1,14 @@
+{
+  "name": "generator-vovanmozg",
+  "version": "1.0.0",
+  "description": "vovanmozg's stack generators",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^5.7.0"
+  }
+}

@@ -1,0 +1,7 @@
+services:
+  small-template:
+    build: .
+    environment:
+      - SOME_ENV=xxx
+    volumes:
+      - .:/app
